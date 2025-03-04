@@ -9,11 +9,11 @@
 		{"id":"798a53c077a4dca5","type":"file","file":"кэш/Pasted image 20250114052607.png","x":-200,"y":120,"width":200,"height":200},
 		{"id":"751fe9f51caea0ea","type":"file","file":"кэш/Pasted image 20250114051419.png","x":-200,"y":320,"width":399,"height":250},
 		{"id":"d9155cb58e9aaf76","type":"file","file":"кэш/Pasted image 20250114052751.png","x":600,"y":120,"width":200,"height":200},
+		{"id":"c949dccb15f0899d","type":"file","file":"ютуб/Сценарии/МАФИЯ СЦНАРИЙ.md","x":-940,"y":-760,"width":560,"height":900},
 		{"id":"f20b09c1191a3bd5","type":"file","file":"кэш/Pasted image 20250114050748.png","x":200,"y":320,"width":115,"height":240},
 		{"id":"9a3d5ce52d99a49b","type":"file","file":"кэш/man.png","x":0,"y":120,"width":200,"height":200},
 		{"id":"c151c7b5aa6cd951","type":"file","file":"кэш/Pasted image 20250114052616.png","x":200,"y":120,"width":200,"height":200},
-		{"id":"13c42796ad5e57a0","type":"file","file":"кэш/Pasted image 20250114052950.png","x":400,"y":120,"width":200,"height":200},
-		{"id":"c949dccb15f0899d","type":"file","file":"ютуб/Сценарии/МАФИЯ СЦНАРИЙ.md","x":-940,"y":-760,"width":560,"height":900}
+		{"id":"13c42796ad5e57a0","type":"file","file":"кэш/Pasted image 20250114052950.png","x":400,"y":120,"width":200,"height":200}
 	],
 	"edges":[
 		{"id":"104e0abd640707f8","fromNode":"3985a4eb187b338b","fromSide":"right","toNode":"c949dccb15f0899d","toSide":"left"},
