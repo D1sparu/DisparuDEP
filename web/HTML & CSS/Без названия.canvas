@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{
+			"id":"5456971ce97e87c2",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-3040,
+			"y":-2240,
+			"width":260,
+			"height":540
+		},
+		{
+			"id":"e41f6318b8bf7169",
+			"type":"file",
+			"file":"web/HTML & CSS/HTML.md",
+			"styleAttributes":{},
+			"x":-4320,
+			"y":-2800,
+			"width":740,
+			"height":1120
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"properties":{
+			"cssclasses":["спт"]
+		}
+	}
+}
