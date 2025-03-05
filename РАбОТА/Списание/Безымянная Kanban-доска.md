@@ -50,16 +50,12 @@ kanban-plugin: board
 - [ ] ТДТ00001268
 - [ ] **Челябчермет**
 - [ ] 80474 118904
+- [ ] **Челябчерметавтоматика НПП ООО**
+- [ ] ТДР00004763
 
 
-## создать заявки в SS
+## Заявки созданы, нужно списать
 
-- [ ] 2
-
-
-## Проверить в 1C
-
-- [ ] 3
 
 
 ## Списано
@@ -71,6 +67,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%
