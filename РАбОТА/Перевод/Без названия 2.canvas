@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"057d45728aafc989","x":-700,"y":-460,"width":400,"height":400,"color":"5","type":"file","file":"РАбОТА/Перевод/MC-165_User_manual_V1.1 русский язык (1).docx"}
+		{"id":"057d45728aafc989","type":"file","file":"РАбОТА/Перевод/MC-165_User_manual_V1.1 русский язык (1).docx","x":-1220,"y":-720,"width":400,"height":400,"color":"5"}
 	],
 	"edges":[]
 }
