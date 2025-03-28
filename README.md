@@ -1,2 +1,0 @@
-# DisparuDEP
-obsidian dep

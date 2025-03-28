@@ -1,16 +1,19 @@
 {
-	"nodes":[
-		{
-			"id":"17eaf2a26ae8adf7",
-			"type":"text",
-			"text":"Юпуб видева к прасмотру\n",
-			"styleAttributes":{},
-			"x":-740,
-			"y":-1000,
-			"width":260,
-			"height":240
-		}
-	],
-	"edges":[],
-	"metadata":{}
+  "edges": [
+  ],
+  "metadata": {
+  },
+  "nodes": [
+    {
+      "height": 240,
+      "id": "17eaf2a26ae8adf7",
+      "styleAttributes": {
+      },
+      "text": "Юпуб видева к прасмотру\n",
+      "type": "text",
+      "width": 260,
+      "x": -740,
+      "y": -1000
+    }
+  ]
 }

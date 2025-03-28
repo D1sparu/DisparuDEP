@@ -1,6 +1,17 @@
 {
-	"nodes":[
-		{"id":"3624b8cd31aca9f5","x":-2660,"y":-1460,"width":400,"height":400,"type":"file","file":"РАбОТА/Перевод/MC-165_User_manual_V1.1 русский язык.docx"}
-	],
-	"edges":[]
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "file": "РАбОТА/Перевод/MC-165_User_manual_V1.1 русский язык.docx",
+      "height": 400,
+      "id": "3624b8cd31aca9f5",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -2660,
+      "y": -1460
+    }
+  ]
 }
