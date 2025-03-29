@@ -1,0 +1,30 @@
+{
+	"edges":[],
+	"metadata":{
+		"properties":{
+			"cssclasses":["спт"]
+		}
+	},
+	"nodes":[
+		{
+			"height":540,
+			"id":"5456971ce97e87c2",
+			"styleAttributes":{},
+			"text":"",
+			"type":"text",
+			"width":260,
+			"x":-3040,
+			"y":-2240
+		},
+		{
+			"file":"Учеба/web/HTML & CSS/HTML.md",
+			"height":1120,
+			"id":"e41f6318b8bf7169",
+			"styleAttributes":{},
+			"type":"file",
+			"width":740,
+			"x":-4320,
+			"y":-2800
+		}
+	]
+}
