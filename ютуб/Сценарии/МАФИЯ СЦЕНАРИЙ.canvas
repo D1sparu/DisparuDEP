@@ -1,149 +1,149 @@
 {
 	"edges":[
-		{"fromNode":"3985a4eb187b338b","fromSide":"right","id":"104e0abd640707f8","toNode":"c949dccb15f0899d","toSide":"left"},
-		{"fromNode":"c949dccb15f0899d","fromSide":"right","id":"635b25b9f19a83df","toNode":"ceb4ff36536a66bf","toSide":"left"},
-		{"fromNode":"ac3f5c8282173003","fromSide":"left","id":"f19d6cff376bef90","toNode":"b7c36fa32b2aef53","toSide":"right"}
+		{"id":"104e0abd640707f8","fromNode":"3985a4eb187b338b","fromSide":"right","toNode":"c949dccb15f0899d","toSide":"left"},
+		{"id":"635b25b9f19a83df","fromNode":"c949dccb15f0899d","fromSide":"right","toNode":"ceb4ff36536a66bf","toSide":"left"},
+		{"id":"f19d6cff376bef90","fromNode":"ac3f5c8282173003","fromSide":"left","toNode":"b7c36fa32b2aef53","toSide":"right"}
 	],
 	"nodes":[
 		{
-			"height":2660,
 			"id":"ceb4ff36536a66bf",
-			"label":"Референсы",
 			"styleAttributes":{},
 			"type":"group",
+			"x":-180,
+			"y":-860,
 			"width":1100,
-			"x":-260,
-			"y":-860
+			"height":1500,
+			"label":"Референсы"
 		},
 		{
-			"height":242,
-			"id":"3985a4eb187b338b",
-			"styleAttributes":{},
-			"text":"[[сценарий]]\nИнтро (15–20 секунд): Краткое и яркое вступление с вопросом/зацепкой.\nОписание игры (1–2 минуты): Основная идея \"Мафии\", как в неё играют.\nРоли в игре (3–5 минут): Подробное объяснение каждой роли с появлением карт.\nПреимущества игры (1–2 минуты): Почему она интересная и подходит для компании.\nРеклама Discord-сервера (30–40 секунд): Завершающий аккорд, призыв присоединиться.\n\t\t#ютуб #Сценарии #мафия",
-			"type":"text",
-			"width":359,
-			"x":-1400,
-			"y":-800
-		},
-		{
-			"height":300,
-			"id":"89137e832ff162c3",
-			"styleAttributes":{},
-			"type":"link",
-			"url":"https://www.youtube.com/watch?v=iY_PINJuMtA&ab_channel=MOGRAPHTUTORIALS%7CALENA",
-			"width":540,
-			"x":280,
-			"y":-840
-		},
-		{
-			"file":"кэш/Pasted image 20250114051400.png",
-			"height":225,
-			"id":"1a745f27386216d3",
+			"file":"ютуб/Сценарии/МАФИЯ СЦНАРИ.md",
+			"id":"c949dccb15f0899d",
 			"styleAttributes":{},
 			"type":"file",
-			"width":400,
-			"x":400,
-			"y":-480
+			"x":-940,
+			"y":-760,
+			"width":560,
+			"height":900
 		},
 		{
-			"height":60,
 			"id":"ac3f5c8282173003",
 			"styleAttributes":{},
 			"text":"спиздить на начало",
 			"type":"text",
+			"x":560,
+			"y":-140,
 			"width":250,
-			"x":480,
-			"y":-140
+			"height":60
 		},
 		{
-			"height":270,
+			"file":"кэш/Pasted image 20250114052607.png",
+			"id":"798a53c077a4dca5",
+			"styleAttributes":{},
+			"type":"file",
+			"x":-120,
+			"y":120,
+			"width":200,
+			"height":200
+		},
+		{
+			"file":"кэш/Pasted image 20250114052751.png",
+			"id":"d9155cb58e9aaf76",
+			"styleAttributes":{},
+			"type":"file",
+			"x":680,
+			"y":120,
+			"width":200,
+			"height":200
+		},
+		{
+			"file":"кэш/Pasted image 20250114051419.png",
+			"id":"751fe9f51caea0ea",
+			"styleAttributes":{},
+			"type":"file",
+			"x":-120,
+			"y":320,
+			"width":399,
+			"height":250
+		},
+		{
+			"file":"кэш/Pasted image 20250114050748.png",
+			"id":"f20b09c1191a3bd5",
+			"styleAttributes":{},
+			"type":"file",
+			"x":280,
+			"y":320,
+			"width":115,
+			"height":240
+		},
+		{
+			"file":"кэш/man.png",
+			"id":"9a3d5ce52d99a49b",
+			"styleAttributes":{},
+			"type":"file",
+			"x":80,
+			"y":120,
+			"width":200,
+			"height":200
+		},
+		{
+			"file":"кэш/Pasted image 20250114052616.png",
+			"id":"c151c7b5aa6cd951",
+			"styleAttributes":{},
+			"type":"file",
+			"x":280,
+			"y":120,
+			"width":200,
+			"height":200
+		},
+		{
+			"file":"кэш/Pasted image 20250114052950.png",
+			"id":"13c42796ad5e57a0",
+			"styleAttributes":{},
+			"type":"file",
+			"x":480,
+			"y":120,
+			"width":200,
+			"height":200
+		},
+		{
+			"id":"89137e832ff162c3",
+			"styleAttributes":{},
+			"type":"link",
+			"url":"https://www.youtube.com/watch?v=iY_PINJuMtA&ab_channel=MOGRAPHTUTORIALS%7CALENA",
+			"x":360,
+			"y":-840,
+			"width":540,
+			"height":300
+		},
+		{
+			"file":"кэш/Pasted image 20250114051400.png",
+			"id":"1a745f27386216d3",
+			"styleAttributes":{},
+			"type":"file",
+			"x":480,
+			"y":-480,
+			"width":400,
+			"height":225
+		},
+		{
 			"id":"b7c36fa32b2aef53",
 			"styleAttributes":{},
 			"type":"link",
 			"url":"https://www.youtube.com/watch?v=h5-oLUesGhQ&ab_channel=KzkXD",
+			"x":-140,
+			"y":-180,
 			"width":618,
-			"x":-220,
-			"y":-180
+			"height":270
 		},
 		{
-			"file":"кэш/Pasted image 20250114052607.png",
-			"height":200,
-			"id":"798a53c077a4dca5",
+			"id":"3985a4eb187b338b",
 			"styleAttributes":{},
-			"type":"file",
-			"width":200,
-			"x":-200,
-			"y":120
-		},
-		{
-			"file":"кэш/Pasted image 20250114051419.png",
-			"height":250,
-			"id":"751fe9f51caea0ea",
-			"styleAttributes":{},
-			"type":"file",
-			"width":399,
-			"x":-200,
-			"y":320
-		},
-		{
-			"file":"кэш/Pasted image 20250114052751.png",
-			"height":200,
-			"id":"d9155cb58e9aaf76",
-			"styleAttributes":{},
-			"type":"file",
-			"width":200,
-			"x":600,
-			"y":120
-		},
-		{
-			"file":"ютуб/Сценарии/МАФИЯ СЦНАРИ.md",
-			"height":900,
-			"id":"c949dccb15f0899d",
-			"styleAttributes":{},
-			"type":"file",
-			"width":560,
-			"x":-940,
-			"y":-760
-		},
-		{
-			"file":"кэш/Pasted image 20250114050748.png",
-			"height":240,
-			"id":"f20b09c1191a3bd5",
-			"styleAttributes":{},
-			"type":"file",
-			"width":115,
-			"x":200,
-			"y":320
-		},
-		{
-			"file":"кэш/man.png",
-			"height":200,
-			"id":"9a3d5ce52d99a49b",
-			"styleAttributes":{},
-			"type":"file",
-			"width":200,
-			"x":0,
-			"y":120
-		},
-		{
-			"file":"кэш/Pasted image 20250114052616.png",
-			"height":200,
-			"id":"c151c7b5aa6cd951",
-			"styleAttributes":{},
-			"type":"file",
-			"width":200,
-			"x":200,
-			"y":120
-		},
-		{
-			"file":"кэш/Pasted image 20250114052950.png",
-			"height":200,
-			"id":"13c42796ad5e57a0",
-			"styleAttributes":{},
-			"type":"file",
-			"width":200,
-			"x":400,
-			"y":120
+			"text":"[[сценарий]]\nИнтро (15–20 секунд): Краткое и яркое вступление с вопросом/зацепкой.\nОписание игры (1–2 минуты): Основная идея \"Мафии\", как в неё играют.\nРоли в игре (3–5 минут): Подробное объяснение каждой роли с появлением карт.\nПреимущества игры (1–2 минуты): Почему она интересная и подходит для компании.\nРеклама Discord-сервера (30–40 секунд): Завершающий аккорд, призыв присоединиться.\n\t\t#ютуб #Сценарии #мафия",
+			"type":"text",
+			"x":-1560,
+			"y":-840,
+			"width":359,
+			"height":300
 		}
 	]
 }
