@@ -13,7 +13,7 @@
 			"width":250,
 			"height":1180
 		},
-		{"id":"e5c108a1dbc49c70","x":130,"y":-156,"width":250,"height":60,"type":"text","text":"awfawf\n\nккакой текст\n"},
-		{"id":"9e5196e83d1c0b20","x":-420,"y":40,"width":1415,"height":119,"type":"file","file":"Аннотация 2025-02-03 120838.png"}
+		{"id":"e5c108a1dbc49c70","type":"text","text":"awfawf\n\nккакой текст\n","x":130,"y":-156,"width":250,"height":60},
+		{"id":"9e5196e83d1c0b20","type":"file","file":"Аннотация 2025-02-03 120838.png","x":-420,"y":40,"width":1415,"height":119}
 	]
 }
