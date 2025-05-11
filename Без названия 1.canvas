@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"eb8fdb3058b44680","type":"text","text":"ЗАДАЧИ:\n1.\n2.\n3.\n","x":-1260,"y":-660,"width":250,"height":369}
+		{"id":"eb8fdb3058b44680","type":"text","text":"ЗАДАЧИ:\n1.\n2.\n3.\n","x":-1900,"y":-920,"width":250,"height":369},
+		{"id":"8b1865c6f94617e7","x":-1500,"y":-800,"width":250,"height":60,"type":"text","text":""}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"a2dcddbec4bda181","fromNode":"eb8fdb3058b44680","fromSide":"right","toNode":"8b1865c6f94617e7","toSide":"left"}
+	]
 }
